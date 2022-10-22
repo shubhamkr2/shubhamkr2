@@ -1,10 +1,23 @@
-# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) this is Shubham Kumar
+<h1 align="center">
+    Hi
+    <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35">
+    I'm Shubham Kumar
+    <img src="https://camo.githubusercontent.com/d3359cb00ab0b5ed8f2e1fe3fceb4fbaf3b614340f8c0db99c17b9f50b351770/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533313834393433302f343234362f626c6f622d73756e676c61737365732e6769663f31353331383439343330" width="35">
+</h1>
 
 # Full Stack Web Devveloper
 
-<h3>You are the visitor #</h3>
+<!----------------------------------- Profile View Section ------------------------------------>
 
-![Visitor Count](https://profile-counter.glitch.me/{Abrar2003}/count.svg)
+<p align="left">
+    <a href="https://github.com/m-sehrawat">
+        <img src="https://komarev.com/ghpvc/?username=shubhamkr2&label=Profile%20views&color=0e75b6&style=flat" alt="m-sehrawat" />
+    </a>
+    <a href="https://github.com/m-sehrawat?tab=followers">
+        <img src="https://img.shields.io/github/followers/shubhamkr2?label=Followers&style=social" alt="followers-count">
+    </a>
+</p>
+<br>
 
 - 🌱 I’m currently learning **React, MongoDB, Nodejs, express**
 - 🌍  I'm based in Patna,
