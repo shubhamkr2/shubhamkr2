@@ -1,17 +1,20 @@
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) this is Shubham Kumar
+
 # Full Stack Web Devveloper
 
 <h3>You are the visitor #</h3>
 
 ![Visitor Count](https://profile-counter.glitch.me/{Abrar2003}/count.svg)
 
-- 🌱   I’m currently learning **React, MongoDB, Nodejs, express**
+- 🌱 I’m currently learning **React, MongoDB, Nodejs, express**
 - 🌍  I'm based in Patna,
-Bihar 
+  Bihar
 - ✉️  You can contact me at
-[Kumarshubham417gmail.com](mailto:Kumarshubham417gmail.com)
-- 👨‍💻   My Portfolio-
+  [Kumarshubham417gmail.com](mailto:Kumarshubham417gmail.com)
+- 👨‍💻 My Portfolio-
+
 ### Skills
+
 <p align="left">
   <a
     href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
@@ -84,7 +87,7 @@ Bihar
       height="32"
   /></a>
 
-  <a
+<a
     href="https://www.linkedin.com/in/shubhamkr2"
     target="_blank"
     rel="noreferrer"
@@ -93,6 +96,7 @@ Bihar
       width="32"
       height="32"
   /></a>
+
 </p>
 
 ### Badges<b> My GitHub Stats</b>
