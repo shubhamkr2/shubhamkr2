@@ -127,8 +127,8 @@
     src="https://activity-graph.herokuapp.com/graph?username=shubhamkr2&bg_color=ffffff&color=000000&line=ef4444&point=000000&area_color=ffffff&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph"
     alt="GitHub Commits Graph" />
     </a>
-<!-- <a href="https://github.com/shubhamkr2" align="left">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamkr2&langs_count=10&title_color=10b981&text_color=000000&icon_color=ef4444&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages"
-    alt="Top Languages"/>
-    </a> -->
+    <br>
+<p align="center">
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shubhamkr2&show_icons=true&locale=en&layout=compact" alt="shubhamkr2" /></p>
+<br>
+
