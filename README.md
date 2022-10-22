@@ -1,8 +1,12 @@
-# Hi
-![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My
-name is Shubham Kumar ## Full Stack Web Developer - 🌍  I'm based in Patna,
-Bihar - ✉️  You can contact me at
-[Kumarshubham417gmail.com](mailto:Kumarshubham417gmail.com)### Skills
+# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) this is Shubham Kumar
+# Full Stack Web Devveloper
+
+- 🌍  I'm based in Patna,
+Bihar 
+- ✉️  You can contact me at
+[Kumarshubham417gmail.com](mailto:Kumarshubham417gmail.com)
+- My Portfolio-
+### Skills
 <p align="left">
   <a
     href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
@@ -28,18 +32,8 @@ Bihar - ✉️  You can contact me at
       height="36"
       alt="Redux"
   /></a>
-  <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"
-    ><img
-      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg"
-      width="36"
-      height="36"
-      alt="NextJs"
-  /></a>
-  <a
-    href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5"
-    target="_blank"
-    rel="noreferrer"
-    ><img
+  <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer">
+    <img
       src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg"
       width="36"
       height="36"
