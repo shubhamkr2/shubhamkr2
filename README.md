@@ -101,7 +101,7 @@
   /></a>
 
 <a
-    href="https://www.linkedin.com/in/shubhamkr2"
+    href="https://www.linkedin.com/in/shubhamkr2" 
     target="_blank"
     rel="noreferrer"
     ><img
