@@ -19,7 +19,7 @@
 </p>
 <br>
 
-- 🌱 I’m currently learning **React, MongoDB, Nodejs,express**
+- 🌱 I’m currently learning **React, MongoDB, Nodejs, express**
 - 🌍  I'm based in Patna,
   Bihar
 - ✉️  You can contact me at
