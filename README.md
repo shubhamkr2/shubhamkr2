@@ -24,7 +24,7 @@
   Bihar
 - ✉️  You can contact me at
   [Kumarshubham417gmail.com](mailto:Kumarshubham417gmail.com)
-- 👨‍💻 My Portfolio shubhamkr2.github.io
+- 👨‍💻 My Portfolio <a href="https://shubhamkr2.github.io/" >Here</a>
 
 ### Skills
 
