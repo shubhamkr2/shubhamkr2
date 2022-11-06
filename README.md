@@ -25,7 +25,7 @@
 - ✉️  You can contact me at
   [Kumarshubham417gmail.com](mailto:Kumarshubham417gmail.com)
 - 👨‍💻 My Portfolio <a href="https://shubhamkr2.github.io/" >Here</a>
-- <a href="https://harshalpatilportfolio.netlify.app](https://drive.google.com/file/d/1Q3jiQzC6umXJF8DQfDoYP7hQbAzFtsGI/view?usp=sharing" >My Resume</a>
+- <a href="https://drive.google.com/file/d/1Q3jiQzC6umXJF8DQfDoYP7hQbAzFtsGI/view" >My Resume</a>
 
 ### Skills
 
