@@ -17,7 +17,7 @@
         <img src="https://img.shields.io/github/followers/shubhamkr2?label=Followers&style=social" alt="followers-count">
     </a>
 </p>
-<br>
+<br> 
 
 - 🌱 I’m currently learning **React, MongoDB, Nodejs, express**
 - 🌍  I'm based in Patna,
@@ -29,7 +29,7 @@
 
 ### Skills
 
-<p align="left">
+<p align="left"> 
   <a
     href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
     target="_blank"
