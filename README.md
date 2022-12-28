@@ -123,11 +123,11 @@
     <img
     src="https://github-readme-streak-stats.herokuapp.com/?user=shubhamkr2&stroke=000000&background=ffffff&ring=10b981&fire=10b981&currStreakNum=000000&currStreakLabel=10b981&sideNums=000000&sideLabels=000000&dates=000000&hide_border=true"
 /></a>
-<a href="http://www.github.com/shubhamkr2"
+<!-- <a href="http://www.github.com/shubhamkr2"
   ><img
     src="https://activity-graph.herokuapp.com/graph?username=shubhamkr2&bg_color=ffffff&color=000000&line=ef4444&point=000000&area_color=ffffff&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph"
     alt="GitHub Commits Graph" />
-    </a>
+    </a> -->
 <!--     <br>
 <p align="center">
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shubhamkr2&show_icons=true&locale=en&layout=compact" alt="shubhamkr2" /></p>
