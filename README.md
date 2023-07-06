@@ -10,7 +10,7 @@
 
 <!----------------------------------- Profile View Section ------------------------------------>
 
-<p align="left">
+<p align="center">
     <a href="https://github.com/shubhamkr2">
         <img src="https://komarev.com/ghpvc/?username=shubhamkr2&label=Profile%20views&color=0e75b6&style=flat" alt="shubhamkr2" />
     </a>
