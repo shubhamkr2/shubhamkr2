@@ -94,7 +94,7 @@
 
 ### Socials
 
-<p align="left">
+<p align="left" style="display: flex; justify-content: left;">
   <a href="https://www.github.com/shubhamkr2" target="_blank" rel="noreferrer"
     ><img
       src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg"
