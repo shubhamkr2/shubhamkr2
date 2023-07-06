@@ -30,7 +30,7 @@
 
 ### Skills
 
-<p align="left"> 
+<p align="center"> 
   <a
     href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
     target="_blank"
