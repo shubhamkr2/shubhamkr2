@@ -112,7 +112,7 @@
       height="32"
   /></a>
 
-</p>
+</div>
 
 ### Badges<b> My GitHub Stats</b>
 
